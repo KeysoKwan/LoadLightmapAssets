@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3476709125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0da912024e1866ca1d3e35fd27ab87f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e26c26ff6ae935c141190bf9d850d35
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88aadddd2111c4b359c9bb7ea703be00, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/BakedPrefeb/CubeAndSphere.prefab
+- Assets/BakedPrefeb/Tower.prefab
+- Assets/BakedPrefeb/Cube.prefab
+Dependencies: []
